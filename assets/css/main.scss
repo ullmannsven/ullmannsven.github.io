@@ -36,3 +36,16 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* Publication entries */
+.publication {
+  margin-bottom: 1.5em;
+
+  .publication__title { margin-bottom: 0.25em; }
+  .publication__authors,
+  .publication__venue { margin: 0 0 0.25em; font-size: 0.9em; }
+}
+.publication__links {
+  margin-top: 0.5em;
+
+  .btn { margin: 0 0.4em 0.4em 0; }
+}

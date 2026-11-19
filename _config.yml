@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : # TODO: paste your Google Scholar profile URL here, e.g. "https://scholar.google.com/citations?user=XXXXXXXX"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sven-ullmann-34887620a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,9 +83,12 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+# Your name as written in author lists; it is shown in bold on the publications page
+publication_me: "S. Ullmann"
+
 publication_category:
   preprints:
-    title: 'Preprints'
+    title: 'Preprints and Submitted Articles'
   books:
     title: 'Books'
   manuscripts:

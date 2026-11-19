@@ -1,0 +1,14 @@
+{% include base_path %}
+{% assign pub = include.post %}
+<div class="list__item">
+  <article class="archive__item publication" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h3 class="archive__item-title publication__title" itemprop="headline">
+      <a href="{{ base_path }}{{ pub.url }}" rel="permalink">{{ pub.title }}</a>
+    </h3>
+    {% if pub.authors %}
+      <p class="publication__authors">{{ pub.authors | replace: site.publication_me, "<strong>__ME__</strong>" | replace: "__ME__", site.publication_me }}</p>
+    {% endif %}
+    <p class="publication__venue">{% if pub.venue %}<i>{{ pub.venue }}</i>, {% endif %}{{ pub.date | date: "%Y" }}</p>
+    {% include publication-links.html post=pub %}
+  </article>
+</div>

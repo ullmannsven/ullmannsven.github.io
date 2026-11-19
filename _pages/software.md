@@ -7,7 +7,7 @@ author_profile: true
 
 pyMOR
 ======
-I contribute to [pyMOR](https://pymor.org) ([GitHub](https://github.com/pymor/pymor)), an open-source Python library for building model order reduction applications. My contributions include work on port-Hamiltonian reductors, low-rank ADI/RADI solvers and operator assembly and caching.
+I am one of the main developers of [pyMOR](https://pymor.org) ([GitHub](https://github.com/pymor/pymor)), an open-source Python library for building model order reduction applications.
 
 Research code
 ======

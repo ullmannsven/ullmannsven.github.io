@@ -26,31 +26,14 @@ Education
 Work experience
 ======
 * **Research assistant**, University of Münster, 04/2025 – 03/2026
-  * Numerical Analysis and Scientific Computing group (Prof. Dr. Mario Ohlberger)
+  * Institut Analysis und Numerik (Prof. Dr. Mario Ohlberger)
   * Development of the open-source software [pyMOR](https://pymor.org)
 * **Teaching assistant**, University of Münster, 10/2024 – 03/2025
   * Master's lecture *Model Order Reduction*
 * **Research assistant**, University of Stuttgart, 03/2023 – 03/2026
   * Institute of Applied Analysis and Numerical Simulation (Prof. Dr. Bernard Haasdonk)
-  * Machine learning and kernel methods, solving PDEs with kernels, development of the software package [VKOGA](https://gitlab.mathematik.uni-stuttgart.de/pub/ians-anm/2l-vkoga)
+  * Machine learning and kernel methods, solving PDEs with kernels, working mainly with Tizian Wenzel. 
 * **Working student**, Boltzplatz numerical plasma GmbH, Stuttgart, 10/2021 – 02/2023
   * Simulations with the open-source software [PICLas](https://github.com/piclas-framework/piclas) and co-development of a browser-based version of PICLas
 * **Teaching assistant**, University of Stuttgart, 10/2020 – 09/2021
   * *Mechanics I & II*
-
-Teaching
-======
-* **Model Order Reduction**, University of Münster, Winter term 2026/27 (teaching assistant)
-* **Analysis and Numerics of Differential Equations**, University of Münster, Summer term 2026 (teaching assistant)
-
-See [Teaching](/teaching/) for all courses.
-
-Software
-======
-* One of the main developers of [pyMOR](https://pymor.org), Model Order Reduction with Python
-
-Publications
-======
-{% for post in site.publications reversed %}
-  {% include publication-entry.html post=post %}
-{% endfor %}

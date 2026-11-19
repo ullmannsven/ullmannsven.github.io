@@ -17,11 +17,12 @@ Education
   * Thesis: *Model order reduction using group convolutional autoencoders*
   * Supervisors: Prof. Dr. Mario Ohlberger and Dr. Stephan Rave
   * Final grade: 1.0 (very good, with distinction)
-* **B.Sc. in Simulation Technology**, University of Stuttgart, 10/2019 – 09/2023
+* **M.Sc. in Simulation Technology**, University of Stuttgart, 03/2023 – 03/2024
+  * Exchange semester (Erasmus+), 03/2023 – 09/2023: Departamento de Matemática, Faculdade de Ciências da Universidade do Porto (Faculty of Sciences of the University of Porto), Portugal
+* **B.Sc. in Simulation Technology**, University of Stuttgart, 10/2019 – 02/2023
   * Thesis: *Kernel trust-region algorithm for solving optimization problems*
   * Supervisor: Prof. Dr. Bernard Haasdonk
   * Final grade: 1.4 (very good)
-  * Exchange semester (Erasmus+), 03/2023 – 09/2023: Departamento de Matemática, Faculdade de Ciências da Universidade do Porto (Faculty of Sciences of the University of Porto), Portugal
 
 Work experience
 ======

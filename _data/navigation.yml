@@ -4,15 +4,16 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# Further sections (pages already exist, just uncomment to show them):
+# Further sections (page already exists, just uncomment to show it):
 #  - title: "Talks"
 #    url: /talks/
-#  - title: "Teaching"
-#    url: /teaching/
 
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Software"
     url: /software/

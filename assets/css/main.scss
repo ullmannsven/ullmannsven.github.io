@@ -49,3 +49,9 @@
 
   .btn { margin: 0 0.4em 0.4em 0; }
 }
+
+/* Multi-line employer entry in the sidebar */
+.author__employer {
+  display: inline-block;
+  vertical-align: top;
+}

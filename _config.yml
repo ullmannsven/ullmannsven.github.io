@@ -27,15 +27,17 @@ author:
   name             : "Sven Ullmann"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics"
-  location         : "Münster, Germany"
-  employer         : "Mathematics Münster & University of Stuttgart"
+  location         : # leave empty to hide
+  employer         : # one entry per line in the sidebar
+    - "University of Stuttgart"
+    - "Mathematics Münster"
   uri              : # URL
   email            : # add an email address to show it in the sidebar
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # TODO: paste your Google Scholar profile URL here, e.g. "https://scholar.google.com/citations?user=XXXXXXXX"
+  googlescholar    : "https://scholar.google.com/citations?user=0TlY1dgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL

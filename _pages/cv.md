@@ -16,9 +16,11 @@ Education
 * **M.Sc. in Mathematics**, University of Münster, 04/2024 – 03/2026
   * Thesis: *Model order reduction using group convolutional autoencoders*
   * Supervisors: Prof. Dr. Mario Ohlberger and Dr. Stephan Rave
+  * Final grade: 1.0 (very good, with distinction)
 * **B.Sc. in Simulation Technology**, University of Stuttgart, 10/2019 – 09/2023
   * Thesis: *TODO: thesis title*
-  * Final grade: *TODO*
+  * Final grade: 1.4 (very good)
+  * Exchange semester: Departamento de Matemática, Faculdade de Ciências da Universidade do Porto (Faculty of Sciences of the University of Porto), Portugal
 
 Software
 ======
